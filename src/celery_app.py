@@ -9,6 +9,7 @@ from sqlalchemy.orm import sessionmaker
 
 settings = get_settings()
 
+
 async def get_setup_utils():
     settings = get_settings()
 

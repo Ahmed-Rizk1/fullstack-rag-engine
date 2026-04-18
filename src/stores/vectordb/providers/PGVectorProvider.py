@@ -304,3 +304,4 @@ class PGVectorProvider(VectorDBInterface):
                     )
                     for record in records
                 ]
+

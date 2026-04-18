@@ -41,3 +41,4 @@ class TemplateParser:
         
         key_attribute = getattr(module, key)
         return key_attribute.substitute(vars)
+

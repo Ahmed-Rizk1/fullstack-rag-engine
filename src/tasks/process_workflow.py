@@ -52,3 +52,4 @@ def process_and_push_workflow(  self, project_id: int,
                   "tasks.data_indexing.index_data_content"]
     }
 
+

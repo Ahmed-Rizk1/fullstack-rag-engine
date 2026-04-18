@@ -10,6 +10,7 @@ from sqlalchemy.orm import sessionmaker
 # Import metrics setup
 from utils.metrics import setup_metrics
 
+
 app = FastAPI()
 
 # Setup Prometheus metrics
@@ -59,3 +60,4 @@ app.on_event("shutdown")(shutdown_span)
 app.include_router(base.base_router)
 app.include_router(data.data_router)
 app.include_router(nlp.nlp_router)
+

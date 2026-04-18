@@ -10,3 +10,6 @@ auto_refresh = True
 # Authentication (optional)
 basic_auth = [f'admin:{config["CELERY_FLOWER_PASSWORD"]}']
 
+
+
+

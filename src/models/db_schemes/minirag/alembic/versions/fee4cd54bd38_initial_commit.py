@@ -74,3 +74,4 @@ def downgrade() -> None:
     op.drop_table('assets')
     op.drop_table('projects')
     # ### end Alembic commands ###
+

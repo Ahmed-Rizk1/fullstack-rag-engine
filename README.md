@@ -59,3 +59,4 @@ Navigate to `http://localhost:5173` in your browser.
 2. Select the **gear icon** (top right) to open the Advanced Setup panel. Set your desired **Chunk Size** and **Overlap**, then hit **Process & Vectorize Document**.
 3. Close the settings panel and begin querying your document using the chat interface!
 
+

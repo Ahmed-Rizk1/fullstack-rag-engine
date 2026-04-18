@@ -49,3 +49,4 @@ def downgrade() -> None:
     op.drop_index('ixz_celery_task_id', table_name='celery_task_executions')
     op.drop_table('celery_task_executions')
     # ### end Alembic commands ###
+

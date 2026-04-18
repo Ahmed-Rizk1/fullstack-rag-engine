@@ -181,3 +181,4 @@ If you see connection errors when starting the services:
    docker compose logs --tail=100 fastapi
    docker compose logs --tail=100 pgvector
    ```
+

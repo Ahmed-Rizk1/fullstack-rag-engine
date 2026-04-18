@@ -59,3 +59,4 @@ class ProjectModel(BaseDataModel):
                 projects = await session.execute(query).scalars().all()
 
                 return projects, total_pages
+

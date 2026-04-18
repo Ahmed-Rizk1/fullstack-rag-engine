@@ -30,3 +30,4 @@ class Asset(SQLAlchemyBase):
         Index('ix_asset_type', asset_type),
     )
 
+
