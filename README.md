@@ -1,4 +1,5 @@
-# Mini-RAG: Advanced Full-Stack AI Assistant
+# Fullstack Rag Engine
+
 
 A complete, production-ready Full-Stack Retrieval-Augmented Generation (RAG) system building an AI Data Assistant. This project elegantly fuses a scalable Python FastAPI backend with a minimalist, high-performance React frontend.
 
